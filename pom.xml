@@ -534,10 +534,9 @@
     
     <dependencies>
         <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>${slf4j.version}</version>
-            <scope>compile</scope>
+            <groupId>org.apache.santuario</groupId>
+            <artifactId>xmlsec</artifactId>
+            <version>1.4.1</version>
         </dependency>
         <dependency>
             <groupId>jakarta.xml.bind</groupId>
