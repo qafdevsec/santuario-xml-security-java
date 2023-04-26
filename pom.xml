@@ -374,7 +374,7 @@
             <activation>
                 <property>
                     <name>release</name>
-                    <value />
+                    <value/>
                 </property>
             </activation>
             <build>
@@ -522,7 +522,7 @@
         <jetty.version>9.4.51.v20230217</jetty.version>
         <xml.bind.api.version>3.0.1</xml.bind.api.version>
         <xml.bind.impl.version>3.0.2</xml.bind.impl.version>
-        <xmlsec.jaxb.context.class />
+        <xmlsec.jaxb.context.class/>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <targetJdk>1.8</targetJdk>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -536,7 +536,7 @@
         <dependency>
             <groupId>org.apache.santuario</groupId>
             <artifactId>xmlsec</artifactId>
-            <version>1.4.1</version>
+            <version>1.5.8</version>
         </dependency>
         <dependency>
             <groupId>jakarta.xml.bind</groupId>
